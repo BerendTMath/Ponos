@@ -6,7 +6,6 @@ This project is comparable to the time tracker toggle.com, but with 2 major diff
 -	Plot custom variables across time
 -	The project can also easily be customized
 
-*demo: Login in as user: “David”, password: “asdf” to see what an account with data looks like*
 
 ## Login & registration
 Simply click register and register your account, after that you can login into your dashboard
